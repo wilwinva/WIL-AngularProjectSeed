@@ -1,2 +1,2 @@
-# WIL-VACT-UI
-personal VACT-UI
+# WIL-AngularProjectSeed
+AngularProjectSeed
